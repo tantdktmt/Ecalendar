@@ -1,7 +1,7 @@
 package com.dmspro.ecalendar.core;
 
 import android.content.Context;
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 /**
  * Created by tantd on 2/7/2020.

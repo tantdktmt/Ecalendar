@@ -1,7 +1,8 @@
 package com.dmspro.ecalendar.schedule;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
+
+import androidx.annotation.Nullable;
 
 import com.dmspro.ecalendar.R;
 import com.dmspro.ecalendar.core.BaseActivity;

@@ -1,6 +1,6 @@
 package com.dmspro.ecalendar.schedule.domain.usecase;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.dmspro.ecalendar.core.DataLayerException;
 import com.dmspro.ecalendar.core.UseCase;
